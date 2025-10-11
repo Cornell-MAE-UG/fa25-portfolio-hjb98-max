@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Hayden Bergschneider - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,13 +8,12 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [hjb98@cornell.edu](mailto:hjb98@cornell.edu) | | | **Phone:** +1 217 615 9613
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
-
+I am a mechanical engineering student at Cornell University with previous experience in entrepreneurship and leadership roles. I have started my own business and curated events for a local company where I worked. I love designing and implementing my ideas into real world applications and am looking forward to my future after Cornell!
 ---
 
 #### Education
@@ -29,42 +28,32 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** AutoCAD, SolidWorks  
+- **Programming:** Python 
+- **Tools:** 3D Printing
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **[Actuator Arm]**:  
+  *Design a mechanism to lift a max weight to a max height.*  
+  - Finding a mechanical advatange based on geometry 
+  - Using both kinematics and statics to determine equilibrium
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
 
 ---
 
-#### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- Illinois State Scholar, 2024 
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Business Lead of Cornell Hyperloop
+- Member of Cornell Boxing Club  
 
 ---
 
