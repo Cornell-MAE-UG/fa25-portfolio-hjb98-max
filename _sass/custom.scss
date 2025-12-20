@@ -114,6 +114,19 @@ footer {
   vertical-align: top;
 }
 
+/* When multiple images are provided, show them side-by-side and scale to container */
+.project-image-container.multiple {
+  display: flex;
+  justify-content: center;
+  gap: 1%;
+  flex-wrap: wrap;
+}
+
+.project-image-container.multiple .project-image {
+  width: 32%;
+  max-width: 32%;
+}
+
 .inline-image {
   max-width: 350px;
   margin: 0px 25px 15px 25px;
