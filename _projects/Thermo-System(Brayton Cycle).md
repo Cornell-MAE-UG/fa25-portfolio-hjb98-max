@@ -5,8 +5,8 @@ description: Gas Powered Turbine (Brayton Cycle)
 technologies: [Excel]
 image: /assets/images/Power-Plant.jpg
 images:
-  - /assets/images/Braxton Cycle.jpg
-  - /assets/images/Braxton Cycle T-S.jpg
+  - /assets/images/braxton-cycle.jpg
+  - /assets/images/braxton-cycle-ts.jpg
 ---
 
 Gas Powered Turbine (Brayton Cycle)
