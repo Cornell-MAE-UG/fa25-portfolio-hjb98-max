@@ -3,7 +3,7 @@ layout: project
 title: Gas Powered Turbine (Brayton Cycle)
 description: Gas Powered Turbine (Brayton Cycle)
 technologies: [Excel]
-image: /assets/images/Power-Plant.jpg
+image: /assets/images/power-plant.jpg
 images:
   - /assets/images/braxton-cycle.jpg
   - /assets/images/braxton-cycle-ts.jpg
