@@ -9,7 +9,7 @@ permalink: /cv/
   <iframe src="{{ "/assets/CV.pdf?v=2" | relative_url }}" width="100%" height="800" style="border:1px solid #ddd; border-radius:6px;"></iframe>
 </div>
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [hjb98@cornell.edu](mailto:hjb98@cornell.edu) | | | **Phone:** +1 217 615 9613
