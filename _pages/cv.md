@@ -18,34 +18,34 @@ permalink: /cv/
 
 #### Objective
 I am a mechanical engineering student at Cornell University with previous experience in entrepreneurship and leadership roles. I have started my own business and curated events for a local company where I worked. I love designing and implementing my ideas into real world applications and am looking forward to my future after Cornell!
----
+
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
   Graduation: May, 2028
 
-- **[High School Name]**  
+- **Meridian High School**  
   *High School Diploma*  
   Graduation: May, 2024
 
 ---
 
 #### Skills
-- **Software:** AutoCAD, SolidWorks  
-- **Programming:** Python 
-- **Tools:** 3D Printing
+- **Software:** AutoCAD, SolidWorks, AutoDesk Fusion
+- **Programming:** Python, MATLAB
+- **Tools:** Red Appron Certified, 3D Printing
 
 ---
 
 #### Projects
-- **[Actuator Arm]**:  
+- **Actuator Arm**:  
   *Design a mechanism to lift a max weight to a max height.*  
   - Finding a mechanical advatange based on geometry 
   - Using both kinematics and statics to determine equilibrium
 
 
-- **[Thermodynamic System Analysis]**:  
+- **Thermodynamic System Analysis**:  
   *Analyze and evaluate a real-world power generation system using first- and second-law thermodynamics.*  
   - Modeling a steady-flow open system using control volumes
   - Applying mass, energy, and entropy balances to compressors, combustors, and turbines
