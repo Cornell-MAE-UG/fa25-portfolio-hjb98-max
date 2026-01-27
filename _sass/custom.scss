@@ -119,13 +119,13 @@ footer {
 .project-image-container.multiple {
   display: flex;
   justify-content: center;
-  gap: 1%;
+  gap: 2%;
   flex-wrap: wrap;
 }
 
 .project-image-container.multiple .project-image {
-  width: 32%;
-  max-width: 32%;
+  width: 64%;
+  max-width: 64%;
 }
 
 .inline-image {
