@@ -34,15 +34,11 @@ I am a mechanical engineering student at Cornell University with previous experi
 #### Skills
 - **Software:** AutoCAD, SolidWorks, AutoDesk Fusion
 - **Programming:** Python, MATLAB
-- **Tools:** Red Appron Certified, 3D Printing
+- **Tools:** Machine Shop Certified, 3D Printing
 
 ---
 
 #### Projects
-- **Actuator Arm**:  
-  *Design a mechanism to lift a max weight to a max height.*  
-  - Finding a mechanical advatange based on geometry 
-  - Using both kinematics and statics to determine equilibrium
 
 
 - **Thermodynamic System Analysis**:  
@@ -51,6 +47,20 @@ I am a mechanical engineering student at Cornell University with previous experi
   - Applying mass, energy, and entropy balances to compressors, combustors, and turbines
   - Evaluating system performance using thermal efficiency and net power output
   - Assessing how changes in operating conditions (e.g., turbine inlet temperature) impact efficiency and design tradeoffs
+
+- **Fusion 360 Design Project**:  
+  *Beginner design in Fusion 360 for a large mug with plans for 3D printing and machining.*  
+  - Gaining foundational skills in parametric 3D modeling using Fusion 360
+  - Understanding design-for-manufacturing principles for 3D printing and machining
+  - Preparing product for final manufacturing and production
+
+- **AutoCAD Workbench Design**:  
+  *Design and layout of a functional workbench (96" x 24" x 36") with multi-layer storage.*  
+  - Creating a practical workspace design with optimized efficiency and ergonomics
+  - Designing wooden storage solutions for industrial workshop applications
+  - Implementing structural integrity for heavy-duty workbench applications
+
+
 
 
 ---
