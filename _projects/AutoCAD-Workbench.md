@@ -2,8 +2,8 @@
 layout: project
 title: AutoCAD Workbench Design
 description: AutoCAD Workbench Design
-technologies: [AutoCAD]
-image: /assets/images/autocad-workbench.jpg
+technologies: [AutoCAD, Carpentry Skills]
+image: /assets/images/autocad-workbench-design.jpg
 images:
   - /assets/images/autocad-workbench-design.jpg
 ---
@@ -19,6 +19,3 @@ This project involves the design and layout of a functional workbench using Auto
 - **Dimensions**: 96" X 24" X 36"
 - **Materials**: Wood
 - **Design Features**: Multi Layer Storage
-
-## Design Approach
-

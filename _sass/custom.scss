@@ -109,7 +109,7 @@ footer {
 .project-image {
   display: inline-block;
   max-width: 100%;
-  width: 600px;
+  width: 1800px;
   height: auto;
   vertical-align: top;
 }
@@ -159,19 +159,19 @@ footer {
 
 .project-gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  gap: 20px;
-  padding: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 30px;
+  padding: 30px;
   margin: 0 auto;
-  max-width: 100%;
+  max-width: 1200px;
 }
 
 .gallery-item {
-  overflow: hidden;
+  overflow: visible;
   text-align: center;
   transition: transform 0.3s ease;
-  max-width: 250px; 
-  max-height: 300px; 
+  max-width: 280px; 
+  height: auto;
 }
 
 .gallery-item img {

@@ -3,7 +3,7 @@ layout: project
 title: Fusion 360 Design
 description: Fusion 360 Design Project
 technologies: [Fusion 360, 3d printing, Machineing]
-image: /assets/images/fusion360-project.jpg
+image: /assets/images/fusion360-design.jpg
 images:
   - /assets/images/fusion360-design.jpg
 ---
