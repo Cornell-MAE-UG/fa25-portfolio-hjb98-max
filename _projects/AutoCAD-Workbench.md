@@ -6,6 +6,8 @@ technologies: [AutoCAD, Carpentry Skills]
 image: /assets/images/autocad-workbench-design.jpg
 images:
   - /assets/images/autocad-workbench-design.jpg
+  - /assets/images/79124075084__A8E8212D-F1D8-4CE0-B925-45356BE03559.jpeg
+  - /assets/images/autocad-workbench-design.png
 ---
 
 # AutoCAD Workbench Design
