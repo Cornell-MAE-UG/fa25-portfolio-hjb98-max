@@ -3,6 +3,7 @@ layout: default
 title: MAE2250 Overall Project
 description: Overview of the MAE2250 course project and how the SLF grape harvester deliverable fits into the semester.
 technologies: [Design Research, Client Engagement, Prototype Development]
+image: /assets/images/research-poster-thumbnail.svg
 ---
 
 # MAE2250 Overall Project
@@ -33,3 +34,9 @@ The SLF Grape Harvester page is the dedicated portfolio page for the MAE2250 del
 - the conclusion and recommendation for next steps
 
 [Go to the SLF Grape Harvester project page →]({{ "/projects/SLF-Grape-Harvester/" | relative_url }})
+
+## Research poster preview
+
+Below is a visual preview of the SLF research poster used for this project deliverable.
+
+<img src="{{ "/assets/images/research-poster-thumbnail.svg" | relative_url }}" alt="Research poster preview" style="max-width:100%;height:auto;border:1px solid #ccc;border-radius:8px;" />

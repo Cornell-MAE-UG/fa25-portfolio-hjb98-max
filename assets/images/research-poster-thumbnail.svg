@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#ffffff" stroke="#1f2937" stroke-width="16" rx="36"/>
+  <rect x="60" y="60" width="1080" height="300" fill="#0f172a" rx="24"/>
+  <text x="120" y="150" font-family="Arial, sans-serif" font-size="72" fill="#f8fafc">Research Poster</text>
+  <text x="120" y="240" font-family="Arial, sans-serif" font-size="40" fill="#e2e8f0">SLF Grape Harvester Design</text>
+  <rect x="120" y="360" width="960" height="420" fill="#c7d2fe" rx="20"/>
+  <text x="140" y="420" font-family="Arial, sans-serif" font-size="32" fill="#1e293b">- Client-focused design</text>
+  <text x="140" y="470" font-family="Arial, sans-serif" font-size="32" fill="#1e293b">- Prototype and testing summary</text>
+  <text x="140" y="520" font-family="Arial, sans-serif" font-size="32" fill="#1e293b">- Recommended next steps</text>
+  <rect x="120" y="560" width="720" height="240" fill="#e2e8f0" rx="20"/>
+  <text x="140" y="620" font-family="Arial, sans-serif" font-size="28" fill="#1e293b">Preview available in the client report PDF.</text>
+</svg>

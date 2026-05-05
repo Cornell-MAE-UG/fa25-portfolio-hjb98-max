@@ -3,6 +3,7 @@ layout: default
 title: SLF Grape Harvester Project
 description: MAE2250 client design project to prevent spotted lanternfly contamination during mechanical grape harvest.
 technologies: [Mechanical Design, Prototyping, Client Communication]
+image: /assets/images/research-poster-thumbnail.svg
 ---
 
 # SLF Grape Harvester — MAE2250 Client Project
